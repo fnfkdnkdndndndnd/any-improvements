@@ -1,2 +1,2 @@
-# any-improvements
-Do you now any improvements for this calculator
+# heb je tips?
+weet jij enkele tips voor deze rekenmachine
